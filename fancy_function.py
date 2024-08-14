@@ -1,2 +1,2 @@
-def fancy_function(x):
-    return x*x
+def multiply_two_numbers(x,y):
+    return x*y
